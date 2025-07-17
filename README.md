@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen Duggenaboina! 👋  
 🚀 Aspiring Full Stack Developer | ECE Graduate | Tech Explorer
 
-I'm a final-year B.Tech student in Electronics and Communication Engineering at Sri Indu College of Engineering and Technology. I love building web projects and exploring how hardware and software can come together in real-world applications.
+I Completed My B.Tech in Electronics and Communication Engineering at Sri Indu College of Engineering and Technology. I love building web projects and exploring how hardware and software can come together in real-world applications.
 
 ---
 
