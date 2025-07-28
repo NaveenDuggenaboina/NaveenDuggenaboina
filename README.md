@@ -65,7 +65,7 @@ Git, GitHub, MS Excel, AWS Cloud Services
 🔗 [GitHub](https://github.com/NaveenDuggenaboina)  
 🔗 [Portfolio](https://naveen-dark-canvas.lovable.app) 
                                                                  
-                                                                 🔗 [Email](https://mail.google.com/mail/u/0/?ogbl#inbox)
+🔗 [Email](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
 
 
