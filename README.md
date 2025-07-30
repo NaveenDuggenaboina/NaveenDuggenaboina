@@ -63,7 +63,7 @@ Git, GitHub, MS Excel, AWS Cloud Services
 
 🔗 [LinkedIn](https://www.linkedin.com/in/duggenaboinanaveen)  
 🔗 [GitHub](https://github.com/NaveenDuggenaboina)  
-🔗[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://duggenaboinanaveenportfolio.netlify.app)
+🔗[PortfolioS](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://duggenaboinanaveenportfolio.netlify.app)
 
 🔗 [Email](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
