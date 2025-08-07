@@ -46,7 +46,7 @@ Git, GitHub, MS Excel, AWS Cloud Services
 
 ## 📜 Certifications
 
-- **Programming with Python** – Internshala
+- **Programming with Python** – https://trainings.internshala.com/view_certificate/99D2943D-4438-71F8-450D-FCFFDD178DEB/1547D82B-1C49-4269-41A1-B0AF88D8D75C/
 
 ---
 
