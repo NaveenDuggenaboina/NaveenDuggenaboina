@@ -46,7 +46,7 @@ Git, GitHub, MS Excel, AWS Cloud Services
 
 ## 📜 Certifications
 
-- - **Programming with Python** 
+- - **Programming with Python**
 
 ## 💡 Strengths
 
