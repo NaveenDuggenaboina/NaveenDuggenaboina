@@ -40,7 +40,7 @@ SQL, MySQL, Oracle
 Django, NumPy, Pandas  
 
 **Tools & Platforms:**  
-Git, GitHub, MS Excel, AWS Cloud Services
+Git, GitHub, MS Excel, AWS Cloud Services...etc
 
 ---
 
@@ -62,8 +62,7 @@ Git, GitHub, MS Excel, AWS Cloud Services
 🔗 [LinkedIn](https://www.linkedin.com/in/duggenaboinanaveen)  
 🔗 [GitHub](https://github.com/NaveenDuggenaboina)  
 🔗 [Portfolio](https://duggenaboinanaveenportfolio.netlify.app)
-
-📧 Email:duggenaboinanaveen@gmail.com
+🔗 Email:duggenaboinanaveen@gmail.com
 
 
 
