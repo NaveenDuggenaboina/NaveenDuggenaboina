@@ -59,7 +59,7 @@ Git, GitHub, MS Excel, AWS Cloud Services...etc
 
 ## 📫 Let's Connect!
 
-🔗 [LinkedIn](https://www.linkedin.com/in/duggenaboinanaveen)  
+
 🔗 [GitHub](https://github.com/NaveenDuggenaboina)  
 🔗 [Portfolio](https://duggenaboinanaveenportfolio.netlify.app)
 🔗 Email:duggenaboinanaveen@gmail.com
