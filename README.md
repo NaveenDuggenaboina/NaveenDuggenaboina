@@ -47,6 +47,7 @@ Git, GitHub, MS Excel, AWS Cloud Services...etc
 ## 📜 Certifications
 
 - - **Programming with Python**
+  - **Data Scientist**
 
 ## 💡 Strengths
 
