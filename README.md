@@ -1,7 +1,7 @@
 # Hi there, I'm Naveen Duggenaboina! 👋  
  Full Stack Developer | Data Scientist | Font-End Developer
 
-I completed my B.Tech in Electronics and Communication Engineering at Sri Indu College of Engineering and Technology. I am passionate about building web-based projects and enjoy exploring the intersection of hardware and software to create innovative real-world solutions. My interests lie in leveraging both my engineering background and software skills to develop impactful and integrated applications.
+I completed my B.Tech in Electronics and Communication Engineering at Sri Indu College of Engineering and Technology. I am passionate about building web-based projects and enjoy exploring the intersection of hardware and software to create innovative real-world solutions. My interested in software skills to develop impactful and integrated applications.
 
 ---
 
