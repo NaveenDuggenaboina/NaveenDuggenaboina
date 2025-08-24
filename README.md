@@ -1,8 +1,15 @@
 # Hi there, I'm Naveen Duggenaboina! 👋  
  Full Stack Developer | Data Scientist | Font-End Developer
 
-I am passionate about building web-based projects and enjoy exploring the intersection of hardware and software to deliver innovative, real-world solutions. My primary focus is on leveraging my software expertise to develop impactful, user-centered applications that seamlessly integrate technology with practical needs.
----
+I'm completed Full-Stack Python development, Data Science, and Front-End technologies to build dynamic, data-driven applications. My skill set includes:
+
+=>Backend: Python (Django, Flask, FastAPI)
+=>Frontend: HTML, CSS, JavaScript (React, Vue.js)
+=>Data Science: Pandas, NumPy, Matplotlib, Seaborn, Scikit-Learn, TensorFlow
+=>Databases: PostgreSQL, MySQL, MongoDB
+=>Version Control & Deployment: Git,AWS
+Passionate about solving complex problems, optimizing workflows, and ensuring software reliability, I enjoy defining project goals and tracking progress for efficient development. I am eager to apply my skills in real-world projects and collaborate with like-minded professionals in tech and data-driven industries.
+
 
 ## 📚 Education
 
