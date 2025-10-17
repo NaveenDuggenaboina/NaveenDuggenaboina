@@ -63,7 +63,7 @@ Git, GitHub, MS Excel, AWS Cloud Services...etc
 🔗 [GitHub](https://github.com/NaveenDuggenaboina)  
 🔗 [Portfolio](https://duggnaveenportfolio.netlify.app/)
 
-🔗 Email:duggenaboinanaveen@gmail.com
+🔗 [E-Mail](https://mail.google.com/mail/u/0/?ogbl#inbox)
 
 
 
