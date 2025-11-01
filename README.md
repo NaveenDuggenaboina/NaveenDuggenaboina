@@ -1,5 +1,5 @@
 # Hi there, I'm Naveen Duggenaboina! 👋  
- Full Stack Developer | Data Scientist | Font-End Developer
+ Full Stack Developer | Data Scientist | AWS Cloud Manager
 
 I'm completed Full-Stack Python development, Data Science, and Front-End technologies to build dynamic, data-driven applications. I'm Passionate about solving complex problems, optimizing workflows, and ensuring software reliability, I enjoy defining project goals and tracking progress for efficient development. I am eager to apply my skills in real-world projects and collaborate with like-minded professionals in tech and data-driven industries.
 
