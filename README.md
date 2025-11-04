@@ -50,7 +50,7 @@ Git, GitHub, MS Excel, AWS Cloud Services...etc
 
 ## 💡 Strengths
 
-- Strong analytical and problem-solving skills  
+- Strong analytical and problem-solving skills 
 - Teamwork and leadership  
 - Reliable under deadlines  
 - Passionate about learning and building
