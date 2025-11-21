@@ -1,122 +1,179 @@
-👋 Hi there, I'm Naveen Duggenaboina! 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Naveen+Duggenaboina!" />
+</div>
 
-## Full Stack Developer | Data Scientist | AWS Cloud Specialist
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=NaveenDuggenaboina&style=for-the-badge&color=blue" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/NaveenDuggenaboina?style=for-the-badge&color=blue" alt="Followers" />
+</div>
 
-Motivated and results-driven professional with expertise in building scalable, data-driven applications. Passionate about solving complex problems, optimizing workflows, and ensuring software reliability. I enjoy defining project goals and tracking progress for efficient development.
+---
+
+## 🙋‍♂️ About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+🎓 **B.Tech in Electronics and Communication Engineering (ECE)** Graduate
+
+💼 Aspiring **Full Stack Developer | Data Scientist | AWS Cloud Specialist**
+
+🔭 Currently working on **scalable full-stack applications** and **data science projects**
+
+🌱 Learning **Advanced React.js, Django, AWS, Machine Learning, and Data Analytics**
+
+👯 Looking to collaborate on **open source projects** and **innovative web applications**
+
+💬 Ask me about **Python, React.js, Django, Data Science, AWS, or anything tech-related!**
+
+📫 Reach me: **duggenaboinanaveen@gmail.com**
+
+⚡ Fun fact: **"Great Developers never stop learning"** | **"There are over 700 programming languages!"**
+
+👨‍💻 All of my projects: **[My Repositories](https://github.com/NaveenDuggenaboina?tab=repositories)**
+
+🌐 Portfolio: **[duggnaveeportfolio.netlify.app](https://duggnaveeportfolio.netlify.app/)**
+
+---
+
+## 🚀 Languages and Tools
+
+### Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,typescript" />
+</p>
+
+### Frontend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=django,nodejs,express,flask" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle" />
+</p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
+</p>
+
+### Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,anaconda,postman,figma" />
+</p>
+
+---
+
+## 💼 Core Competencies
+
+```python
+naveen_skills = {
+    "Full_Stack_Development": ["React.js", "Django", "Node.js", "REST APIs"],
+    "Data_Science_&_ML": ["Python", "Pandas", "NumPy", "Scikit-learn", "Data Visualization"],
+    "Cloud_Technologies": ["AWS (EC2, S3, RDS, Lambda)", "Cloud Architecture"],
+    "Databases": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
+    "Problem_Solving": ["Data Structures", "Algorithms", "OOP", "System Design"],
+    "Soft_Skills": ["Team Collaboration", "Communication", "Quick Learner", "Agile/Scrum"]
+}
+```
+
+---
+
+## 💡 Featured Projects
+
+### 🌟 Automatic Street Light Control System (May 2023 - Nov 2023)
+**IoT-based Smart System** | *Arduino, LDR Sensors, PIR Sensors*
+- Developed intelligent street light control using ambient light and motion detection
+- Reduced energy consumption by **40%** through dynamic LED brightness adjustment
+- Improved public safety while maintaining electrical standards
+
+### 🎯 Full Stack Web Applications
+**MERN/PERN Stack Projects**
+- Built responsive, scalable applications with React.js frontend and Django/Node.js backend
+- Implemented secure authentication, RESTful APIs, and database integration
+- Deployed on AWS with CI/CD pipelines
+
+### 📊 Data Science & Analytics Projects
+**Python, Machine Learning, Data Visualization**
+- Real-time data analysis and predictive modeling projects
+- Data wrangling, visualization using Pandas, NumPy, Matplotlib, Seaborn
+- ML model development with Scikit-learn
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NaveenDuggenaboina&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaveenDuggenaboina&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaveenDuggenaboina&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaveenDuggenaboina&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</div>
 
 ---
 
 ## 🎓 Education
 
-- **B.Tech in Electronics and Communication Engineering (ECE)**
-  - Sri Indu College of Engineering and Technology, Hyderabad (2020 - 2024)
-  
-- **Intermediate (MPC)**
-  - SR Junior College, Hyderabad (2018 - 2020)
-  
-- **Secondary School Certificate (SSC)**
-  - Telangana Model School, Nalgonda (2017 - 2018)
+**🎓 B.Tech in Electronics and Communication Engineering (ECE)**
+- 📍 Sri Indu College of Engineering and Technology, Hyderabad
+- 📅 2020 - 2024
+- 🏆 Strong foundation in engineering principles with focus on software development
+
+**📚 Intermediate (MPC)**
+- 📍 SR Junior College, Hyderabad
+- 📅 2018 - 2020
 
 ---
 
-## 💼 Professional Summary
+## 🤝 Connect With Me
 
-I am a dedicated software developer with strong expertise in:
-- **Full Stack Development**: Building end-to-end applications using Python, React.js, and Django
-- **Data Science & ML**: Predictive modeling and machine learning solutions for real-world problems
-- **Cloud Technologies**: AWS cloud infrastructure, storage, and query optimization
-- **Software Architecture**: Designing scalable systems with fault-tolerant architecture
-- **Problem Solving**: Strong analytical thinking and adaptability to new technologies
-
----
-
-## 💻 Technical Skills
-
-### Programming Languages
-- Java, Python, C, JavaScript
-
-### Web Technologies & Frameworks
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: Django, Python
-- **Databases**: SQL, MySQL, Oracle
-
-### Data Science & ML
-- Scikit-learn, NumPy, Pandas, Matplotlib
-- Predictive modeling, feature engineering, data preprocessing
-- Generative AI solutions
-
-### Cloud & DevOps
-- AWS (EC2, S3, RDS, Lambda)
-- Cloud storage and indexing
-- Query optimization
-
-### Tools & Platforms
-- Git, GitHub, GitLab
-- Jupyter Notebook, Anaconda
-- Agile/Scrum methodology
-- Version control and collaborative development
+<p align="center">
+  <a href="https://www.linkedin.com/in/duggenaboinanaveen/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:duggenaboinanaveen@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://duggnaveeportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/NaveenDuggenaboina">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
 ---
 
-## 🔌 Projects
+## 🏆 GitHub Trophies
 
-### Automatic Street Light Control System (May 2023 - Nov 2023)
-Developed an IoT-based automatic street light control system using LDR and PIR sensors managed by Arduino.
-- Implemented ambient light and motion detection algorithms
-- Optimized energy efficiency by adjusting LED brightness dynamically
-- Reduced electricity usage while maintaining safety standards
-- **Technologies**: Arduino, C, IoT sensors, embedded systems
-
-### Stroke Disease Detection using Machine Learning (Dec 2023 - Jun 2024)
-Built a robust ML model for predicting stroke disease using patient health data.
-- Applied data preprocessing and feature engineering techniques
-- Used advanced ML algorithms with cross-validation for high accuracy
-- Implemented feature importance analysis for medical decision-making support
-- **Technologies**: Python, Scikit-learn, Pandas, NumPy, Data Analysis
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=NaveenDuggenaboina&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 ---
 
-## 📜 Certifications
+## 📈 Contribution Activity
 
-- **Python Full Stack With AWS** - Vtalent (2025)
-- **Data Scientist** - Edureka (2025)
-- **Python Basics** - Internshala (2022)
-
----
-
-## 🌟 Key Strengths
-
-✅ **Problem-Solving**: Strong analytical abilities and creative solution design  
-✅ **Communication**: Effective teamwork and clear technical documentation  
-✅ **Leadership**: Capable of leading projects and mentoring team members  
-✅ **Adaptability**: Quick learner with ability to master new technologies  
-✅ **Reliability**: Highly organized with strong commitment to meet deadlines  
-✅ **Collaboration**: Passionate about working with like-minded professionals in tech and data-driven industries
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
-## 📊 GitHub Statistics
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+⭐;Open+to+Full+Stack+Developer+Roles;Let's+Connect+and+Build+Together!;Always+Learning+and+Growing+🚀" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaveenDuggenaboina&show_icons=true&theme=radical)
-
----
-
-## 📫 Contact & Connect
-
-- **Email**: duggenaboinanaveengmail.com
-- **Phone**: +91 9398209834
-- **Location**: Hyderabad, India
-- **LinkedIn**: [in/duggenaboinanaveen](https://www.linkedin.com/in/duggenaboinanaveen/)
-- **Portfolio**: [duggnaveenportfolio.netlify.app](https://duggnaveenportfolio.netlify.app/)
-
----
-
-## 🎯 Looking For
-
-Open to exciting opportunities in:
-- Full Stack Development roles
-- Data Science and ML positions
-- Cloud-based application development
-- Innovation-driven organizations that value creativity and continuous learning
-
-Let's connect and build something amazing together! 🚀
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</div>
