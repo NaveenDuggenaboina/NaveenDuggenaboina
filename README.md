@@ -1,4 +1,4 @@
-# Hi there, I'm Naveen Duggenaboina! 👋
+# �Hi there, I'm Naveen Duggenaboina! 
 
 ## Full Stack Developer | Data Scientist | AWS Cloud Specialist
 
