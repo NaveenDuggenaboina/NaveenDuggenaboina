@@ -71,10 +71,6 @@
 
 ## 💼 Core Competencies
 
----
-
-### **Naveen Skills (Markdown Version)**
-
 #### **Full Stack Development**
 
 * React.js
