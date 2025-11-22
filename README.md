@@ -71,18 +71,53 @@
 
 ## 💼 Core Competencies
 
-```python
-naveen_skills = {
-    "Full_Stack_Development": ["React.js", "Django", "Node.js", "REST APIs"],
-    "Data_Science_&_ML": ["Python", "Pandas", "NumPy", "Scikit-learn", "Data Visualization"],
-    "Cloud_Technologies": ["AWS (EC2, S3, RDS, Lambda)", "Cloud Architecture"],
-    "Databases": ["MySQL", "MongoDB", "PostgreSQL", "Oracle"],
-    "Problem_Solving": ["Data Structures", "Algorithms", "OOP", "System Design"],
-    "Soft_Skills": ["Team Collaboration", "Communication", "Quick Learner", "Agile/Scrum"]
-}
-```
+---
+
+### **Naveen Skills (Markdown Version)**
+
+#### **Full Stack Development**
+
+* React.js
+* Django
+* Node.js
+* REST APIs
+
+#### **Data Science & Machine Learning**
+
+* Python
+* Pandas
+* NumPy
+* Scikit-learn
+* Data Visualization
+
+#### **Cloud Technologies**
+
+* AWS (EC2, S3, RDS, Lambda)
+* Cloud Architecture
+
+#### **Databases**
+
+* MySQL
+* MongoDB
+* PostgreSQL
+* Oracle
+
+#### **Problem Solving**
+
+* Data Structures
+* Algorithms
+* OOP
+* System Design
+
+#### **Soft Skills**
+
+* Team Collaboration
+* Communication
+* Quick Learner
+* Agile/Scrum
 
 ---
+
 
 ## 💡 Featured Projects
 
