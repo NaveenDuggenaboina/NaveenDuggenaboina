@@ -64,7 +64,7 @@
 
 ### Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,anaconda" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter" />
 </p>
 
 ---
