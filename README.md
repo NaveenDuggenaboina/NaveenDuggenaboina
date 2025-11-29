@@ -39,32 +39,32 @@
 
 ### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,c,cpp,js,typescript" />
+  <img src="https://skillicons.dev/icons?i=python,js,typescript" />
 </p>
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap," />
 </p>
 
 ### Backend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,nodejs,express,flask" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github" />
 </p>
 
 ### Tools & IDEs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,anaconda,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,jupyter,anaconda" />
 </p>
 
 ---
