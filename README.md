@@ -54,7 +54,7 @@
 
 ### Databases
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,oracle" />
+  <img src="https://skillicons.dev/icons?i=mysql,oracle,sql" />
 </p>
 
 ### Cloud & DevOps
