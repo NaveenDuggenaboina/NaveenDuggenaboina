@@ -83,7 +83,6 @@
 * Python
 * Pandas
 * NumPy
-* Scikit-learn
 * Data Visualization
 
 #### **Cloud Technologies**
