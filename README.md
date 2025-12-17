@@ -95,7 +95,6 @@
 
 * MySQL
 * MongoDB
-* PostgreSQL
 * Oracle
 
 #### **Problem Solving**
