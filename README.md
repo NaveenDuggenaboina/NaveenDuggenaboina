@@ -85,7 +85,7 @@
 * NumPy
 * Data Visualization
 
-#### **Cloud Technologies**
+#### **Cloud Technologies*
 
 * AWS (EC2, S3, RDS, Lambda)
 * Cloud Architecture
@@ -96,7 +96,7 @@
 * MongoDB
 * Oracle
 
-#### **Problem Solving**
+#### **Problem Solving
 
 * Data Structures
 * Algorithms
